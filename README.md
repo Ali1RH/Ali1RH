@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ali1RH
 - 👀 I’m interested in design and programming, but more than people
-- 🌱 I’m currently learning laravel 
 - 🦉 I’m looking to collaborate on bidar
 
 <!---
